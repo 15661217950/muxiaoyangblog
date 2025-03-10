@@ -1,9 +1,5 @@
 ## 预览地址
 
-JYeontuBlog: [http://jyeontu.xyz/JYeontuBlog/#/home](http://jyeontu.xyz/JYeontuBlog/#/home)
-
-@jyeontu/jvuewheel:[ http://jyeontu.xyz/JYeontuComponents/#/calendar](http://jyeontu.xyz/JYeontuComponents/#/calendar)
-
 ## 项目描述
 
 ### 项目目录
@@ -92,10 +88,8 @@ JYeontuBlog: [http://jyeontu.xyz/JYeontuBlog/#/home](http://jyeontu.xyz/JYeontuB
 └───test                                //测试文件目录
 ```
 
-前端页面使用 vue2.0 构建，UI 组件引入了自己编写的一个 UI 组件库（@jyeontu/jvuewheel）和 elementUI,简单实现了一个简约的个人博客页面，部分页面截图如下：
-![首页](img/%E9%A6%96%E9%A1%B5.jpg)
-![归档页面](img/%E5%BD%92%E6%A1%A3.jpg)
-![统计页面](img/%E7%BB%9F%E8%AE%A1%E9%A1%B5%E9%9D%A2.png)
+前端页面使用 vue2.0 构建，UI 组件引入elementUI,简单实现了一个简约的个人博客页面，部分页面截图如下：
+
 
 ### 后端
 
@@ -164,14 +158,4 @@ node index.js
 
 将 sql 目录下的 sql 文件导入 mysql 数据库即可。
 
-### 联系我
 
-个人博客地址:[http://jyeontu.xyz/JYeontuBlog/#/home](http://jyeontu.xyz/JYeontuBlog/#/home)
-个人微信：JYeontu
-
-### 赞赏
-
-如果觉得对您可以有一点的帮助，可以在这里请作者喝一杯奶茶，或者给本项目点个 star。
-
-![输入图片说明](img/%E5%BE%AE%E4%BF%A1%E6%94%AF%E4%BB%98.jpg)
-![输入图片说明](img/%E6%94%AF%E4%BB%98%E5%AE%9D%E6%94%AF%E4%BB%98.jpg)
